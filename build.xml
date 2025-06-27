@@ -7,7 +7,14 @@
 
   <!-- 运行 JMeter -->
   <target name="run">
+	<!-- 安全清理旧结果（不会因文件不存在而报错） -->
+    <delete file="${result.file}" failonerror="false"/>
+    <delete dir="${report.dir}" failonerror="false"/>
+    
+    <!-- 创建目录结构 -->
+    <mkdir dir="results"/>
     <mkdir dir="${report.dir}"/>
+	<sleep seconds="2"/>
 
     <exec executable="${jmeter.home}/bin/jmeter">
       <arg value="-n"/>

@@ -1472,6 +1472,18 @@ try {
 }</stringProp>
           </BeanShellPostProcessor>
           <hashTree/>
+          <JSR223Assertion guiclass="TestBeanGUI" testclass="JSR223Assertion" testname="判断token不为空" enabled="true">
+            <stringProp name="cacheKey">true</stringProp>
+            <stringProp name="filename"></stringProp>
+            <stringProp name="parameters"></stringProp>
+            <stringProp name="script">if (vars.get(&quot;token&quot;) == null || vars.get(&quot;token&quot;).trim() == &quot;&quot; || vars.get(&quot;token&quot;) == &quot;NOT_FOUND&quot;) {
+    AssertionResult.setFailure(true)
+    AssertionResult.setFailureMessage(&quot;access_token 为空或提取失败&quot;)
+}
+</stringProp>
+            <stringProp name="scriptLanguage">groovy</stringProp>
+          </JSR223Assertion>
+          <hashTree/>
         </hashTree>
         <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="HTTP Status Assertion" enabled="true">
           <collectionProp name="Asserion.test_strings">
