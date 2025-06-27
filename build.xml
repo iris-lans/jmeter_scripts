@@ -1,0 +1,23 @@
+<project name="RunJMeter" default="run" basedir=".">
+  <!-- 配置 -->
+  <property name="jmeter.home" location="/opt/jmeter"/>
+  <property name="test.plan" location="testcases/login_api.jmx"/>
+  <property name="result.file" value="results/result.jtl"/>
+  <property name="report.dir" value="results/html"/>
+
+  <!-- 运行 JMeter -->
+  <target name="run">
+    <mkdir dir="${report.dir}"/>
+
+    <exec executable="${jmeter.home}/bin/jmeter">
+      <arg value="-n"/>
+      <arg value="-t"/>
+      <arg value="${test.plan}"/>
+      <arg value="-l"/>
+      <arg value="${result.file}"/>
+      <arg value="-e"/>
+      <arg value="-o"/>
+      <arg value="${report.dir}"/>
+    </exec>
+  </target>
+</project>
