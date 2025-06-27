@@ -1,0 +1,2 @@
+testCase,httpStatusCode,bmsDetailReq,bmsDetailReq,bmsManageReq,storeEnergyHomeReq,bmsOverviewRep,bmsOverviewRep,bmsAlarmReq,bmsOverviewRep,bmsOverviewRep,bmsCalibrationReq,cid,mType,pageNum,pageSize,bmsControlReq,cid,mType,pageNum,pageSize,pcsControlReq,pcsOffOnControlReq,accumHisReq,baseInfoReq,runStatsReq,pcsDetailReq,pcsDetailReq,pcsManageReq,pcsManageReq,bmsClusterAnalysisReq,bmsAnalyseReq,bmsSuggestReq,consistencyAnalysisReq,contrastiveAnalysisReq,pcsAnalyseReq
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

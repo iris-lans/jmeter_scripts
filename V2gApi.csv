@@ -1,0 +1,2 @@
+testCase,httpStatusCode,v2gClusterAnalysisReq,v2gMainAnalysisReq,v2gMainAnalysisReq,v2gSuggestReq,v2gGetControlReq,commandSenderReq,v2gUpdatePowerReq,v2gCharFreeAlarmReq,v2gchargeNumReq,v2ginfoReq,v2ginfoReq,v2gDetailReq,v2gDetailReq,v2gDetailReq,v2gStatisReq
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

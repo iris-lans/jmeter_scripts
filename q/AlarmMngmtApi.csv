@@ -1,0 +1,2 @@
+testCase,httpStatusCode,alaRecordReq,alaContentReq,alaRankReq,alaStatReq
+Success,200,0,0,0,0

@@ -1,0 +1,2 @@
+testCase,httpStatusCode,esBmsCtrlInfoReq,esBmsCtrlReq,esPcsCtrlInfoReq,esPcsCtrlReq,dispatchBoardReq,dispatchStrtgInfoReq,setDispatchStrtgReq
+Success,200,0,0,0,0,0,0,0

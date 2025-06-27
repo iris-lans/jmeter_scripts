@@ -1,0 +1,2 @@
+testCase,httpStatusCode,cellGradAnlysReq,esKwhCurveReq,esTotalKwhReq,esParamsReq,esTreeReq,paramDataQueryReq,esIncomeCostReq,esMulIncomeReq,esSpfvPriceReq,esTimesIncomeReq,curStrtgReq,hisStrtgListReq,runStrtgCurveReq,socCompCurveReq
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+testCase,httpStatusCode,bmsSoeReq,bmsManageReq,cellDetailReq,cellOverviewReq,rackOverviewReq,rackRtMtrReq,pccRtMtrReq,pccSoeReq,pccTreeReq,pcsEleReq,pcsListTreeReq,pcsSoeReq
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0

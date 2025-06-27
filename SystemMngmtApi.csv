@@ -1,0 +1,2 @@
+testCase,httpStatusCode,priceConfigReq,delPriceConfigReq,getPriceConfigReq,getPvConfigReq,getRePriceConfigReq,newestPriceConfigReq,setPvConfigReq,rePriceConfigReq,priceConfigReq,rePriceConfigStatusReq,operationLogListReq
+Success,200,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+testCase,httpStatusCode,assignUserAuthReq,authPhoneReq,phoneIsHavingReq,userinfoReq,openIdReq,phoneIsHavingReq,saveUserReq,updatePasswordReq,updatePhoneReq,userAuthReq,userStatusReq,updateUserInfoReq,updateWechatReq,userinfoReq,userListReq,cidReq,userinfoReq,menuTreeListReq,proxyCompanyInfoReq,proxyListReq,proxyStatusReq,loginReq
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

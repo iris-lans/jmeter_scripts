@@ -1,0 +1,2 @@
+testCase,httpStatusCode,pvAlarmContentReq,pvAlarmRankReq,pvAlarmRecordReq,pvAlarmStatisReq,clusterAnalysisReq,suggestReq,pvBenchMarkReq,comparativeAnalysisReq,cid,mType,microPower,pvSendControlReq,pvDevMagerReq,pvEfficAnalyReq,pvEleChargeReq,cidStartEndReq,pvKwhChargeNumReq,pvinfoReq,pvinfoReq,pvStatInfReq,pvPertReq,pvCurrentReq,pvHisInfReq,pvHisInfReq,cid
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

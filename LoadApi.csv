@@ -1,0 +1,2 @@
+testCase,httpStatusCode,getSoftLoadConfigReq,softLoadConfigReq,softLoadConfigStatusReq,loadDCManageReq,loadBaseReq,loadBaseReq,loadTreeReq,cidStartEndReq,cidStartEndReq
+Success,200,0,0,0,0,0,0,0,0,0

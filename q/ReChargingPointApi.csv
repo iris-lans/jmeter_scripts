@@ -1,0 +1,2 @@
+testCase,httpStatusCode,reAlarmContentReq,reAlarmRankReq,reAlarmRecordReq,reAlarmStatisReq,rechargePointAnaReq,reClusterAnalysisReq,rechargePointAnaReq,reSuggestReq,cid,mType,pageNum,pageSize,reType,microPower,reSendControlReq,reDevMagerReq,reCharFreeAlarmReq,rechargeNumReq,reinfoReq,reinfoReq,reCurrentReq,reHisInfReq,reSpfvInfoReq,reStatisReq
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

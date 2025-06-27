@@ -1,0 +1,2 @@
+testCase,httpStatusCode,getDispatchInfoConfigReq,getDispatchInfoReq,dispatchCtrlMasterRep,getDispatchInfoReq,dispatchInfoConfigReq,setDispatchInfoReq,dispatchInfoConfigStatusReq,planListReq,optimalAnalysisReq,predictCurveReq
+Success,200,0,0,0,0,0,0,0,0,0,0
