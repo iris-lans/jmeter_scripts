@@ -1,7 +1,7 @@
 <project name="RunJMeter" default="run" basedir=".">
   <!-- 配置 -->
   <property name="jmeter.home" location="/opt/jmeter"/>
-  <property name="test.plan" location="testcases/login_api.jmx"/>
+  <property name="test.plan" location="EnergySumApi.jmx"/>
   <property name="result.file" value="results/result.jtl"/>
   <property name="report.dir" value="results/html"/>
 
